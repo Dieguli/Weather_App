@@ -5,6 +5,6 @@ in each of these locations appears.
 
 ![Figure 1: Main Screen ](Main.png)
 
-By clicking on the space corresponding to one of the locations, a more detailed weather infomration appears. For example, in the case of Nairobi:
+By clicking on the space corresponding to one of the locations, a more detailed weather information is displayed. For example, in the case of Nairobi:
 
 ![Figure 2: Nairobi detailed information ](Nairobi.png)
